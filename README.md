@@ -1,2 +1,5 @@
 # My Portfolio
-![Portfolio Screenshot](images/screenshot.png)
+
+## Screenshot
+
+![Portfolio Screenshot](image/screenshot.png)
